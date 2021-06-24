@@ -549,11 +549,11 @@ footer > * {
 
     /* Header */
     header {
-        padding-top: 4rem;
+        padding-top: 3rem;
     }
 
     .header {
-        width: 95%;
+        width: 100%;
         margin: 0 auto;
     }
     /* Header NavBar */
@@ -611,7 +611,7 @@ footer > * {
     .nav-btn {
         margin-top: -2em;
         background-color: white;
-        padding: .7em 2em;
+        padding: .8em 2em;
         border-radius: 2.5em;
         font-size: 1.125rem;
     }

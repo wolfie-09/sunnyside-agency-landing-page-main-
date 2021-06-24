@@ -29,7 +29,7 @@ There is a folder in the repo that contains the screenshot of the website on dif
 ### Links
 
 - Solution URL: [GitHub repo](https://github.com/wolfie-09/sunnyside-agency-landing-page-main/)
-- Live Site URL: [Netlify Deployed Site](https://epic-heyrovsky-b56025.netlify.app/)
+- Live Site URL: [Netlify Deployed Site](https://suspicious-brown-5a476d.netlify.app/)
 
 ## My process
 

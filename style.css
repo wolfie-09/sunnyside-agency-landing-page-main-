@@ -580,10 +580,6 @@ footer > * {
         width: 50%;
     }
     
-    .nav-menu {
-        
-    }
-    
     .nav-menu li{
         width: 100%;
         margin: 0 auto;
@@ -615,7 +611,8 @@ footer > * {
         background-color: white;
         padding: .8em 2em;
         border-radius: 2.5em;
-        font-size: 1.125rem;
+        font-size: 1.2rem;
+        font-family: 'Fraunces';
     }
 
     .nav-btn:hover {

@@ -573,13 +573,15 @@ footer > * {
         gap: 1.5rem;
         background: none;
         padding: 0;
+        width: 50%;
+        margin-left: 35%;
     }
     .primary-nav {
         width: 50%;
     }
     
     .nav-menu {
-        width: 100%;
+        
     }
     
     .nav-menu li{
